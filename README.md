@@ -3,8 +3,7 @@
 
 ## Let's talk:
 
-<a href="https://twitter.com/intent/follow?screen_name=MuamerSeljubac" class="twitter-follow-button" data-show-count="false">Follow @MuamerSeljubac</a>
-
+![Twitter Badge](https://img.shields.io/twitter/follow/MuamerSeljubac?style=social)
 <!--
 **MSeljubac/MSeljubac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
