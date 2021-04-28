@@ -3,7 +3,8 @@
 
 ## Let's talk:
 
-<a href="https://twitter.com/intent/follow?screen_name=MuamerSeljubac"><img src="https://camo.githubusercontent.com/463d1be5e6751341e8e08904c2d9a2509738a64a7481e395f1d7be317add9af9/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4d75616d657253656c6a756261633f7374796c653d736f6369616c"></a>
+<a href="https://twitter.com/intent/follow?screen_name=MuamerSeljubac"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/muamers/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **MSeljubac/MSeljubac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
