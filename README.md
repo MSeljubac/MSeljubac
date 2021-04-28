@@ -1,6 +1,8 @@
 ### Hello there! 👋 
 ### I'm Muamer. Welcome to my GitHub profile. 😊
 
+![Twitter Follow](https://img.shields.io/twitter/follow/MuamerSeljubac?label=Follow%20me%20on%20Twitter&style=social)
+
 <!--
 **MSeljubac/MSeljubac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
