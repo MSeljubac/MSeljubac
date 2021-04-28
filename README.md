@@ -3,7 +3,7 @@
 
 ## Let's talk:
 
-![Twitter Follow](https://twitter.com/intent/follow?screen_name=MuamerSeljubac)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MuamerSeljubac?style=social">
 
 <!--
 **MSeljubac/MSeljubac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
