@@ -3,7 +3,7 @@
 
 ## Let's talk:
 
-<img alt="Twitter Follow" src="https://camo.githubusercontent.com/463d1be5e6751341e8e08904c2d9a2509738a64a7481e395f1d7be317add9af9/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4d75616d657253656c6a756261633f7374796c653d736f6369616c">
+<a href="https://twitter.com/MuamerSeljubac?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MuamerSeljubac</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--
 **MSeljubac/MSeljubac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
