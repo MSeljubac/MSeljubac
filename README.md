@@ -3,7 +3,7 @@
 
 ## Let's talk:
 
-![Twitter Follow](https://camo.githubusercontent.com/05101a31cc21f3c47348d6d3bc7c86606bfdf57c895a6eb04b519fec081caf8b/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4d75616d657253656c6a756261633f6c6162656c3d466f6c6c6f772532306d652532306f6e25323054776974746572267374796c653d736f6369616c)
+![Twitter Follow](https://twitter.com/intent/follow?screen_name=MuamerSeljubac)
 
 <!--
 **MSeljubac/MSeljubac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
