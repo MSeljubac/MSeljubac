@@ -6,8 +6,8 @@
 - I'm finding my way through MERN stack (<strong>MERN Project Repo: Coming Soon!</strong>).
 
 #### PREVIOUSLY:
-- Worked on a bunch of fintech solutions (mostly backend) for financial institutions, enterprises and startups.
-- Primarily used 
+- Worked on a bunch of fintech solutions (mostly backend) for financial institutions, enterprises and startups for 4+ years.
+- Primarily used <strong>Java + Spring Boot + Postgres</strong> for backend solutions (REST API).
 
 #### A BIT MORE ABOUT ME:
 ##### I'm fluent in: 
