@@ -1,6 +1,8 @@
 ### Hello there! 👋 
 ### I'm Muamer. Welcome to my GitHub profile. 😊
 
+## Let's talk:
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/MuamerSeljubac?label=Follow%20me%20on%20Twitter&style=social)
 
 <!--
