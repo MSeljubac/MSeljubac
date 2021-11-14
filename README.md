@@ -4,7 +4,7 @@
 #### THESE DAYS:
 - I'm working for an awesome company called <strong><a href="https://www.propeller.ba">Propeller</a></strong> from <a href="https://www.google.com/maps/place/Tuzla">Tuzla, Bosnia and Herzegovina</a>. 
 - I'm finding my way through MERN stack.
-- I'm also brushing up on my Spring Boot + Angular skill set (<strong>new project coming up soon!<strong>).
+- I'm also brushing up on my Spring Boot + Angular skill set.
 
 #### PREVIOUSLY:
 - Worked on a bunch of fintech solutions (mostly backend) for financial institutions, enterprises and startups for 4+ years.
