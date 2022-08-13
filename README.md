@@ -10,14 +10,6 @@
 - Worked on a bunch of fintech solutions (mostly backend) for financial institutions, enterprises and startups for 4+ years.
 - Primarily used <strong>Java + Spring Boot + Postgres</strong> for backend solutions (REST API).
 
-#### WHAT I'M UP TO:
-- I'll be trying to get my GitHub portfolio enriched by a couple of projects here and there. Here is the list of things I want to make so far:
-  - A Bug Tracker app,
-  - A Blog Platform,
-  - A Financial Portal,
-  - An Inventory Control System,
-  - The Work Order System
-
 #### A BIT MORE ABOUT ME:
 ##### I'm fluent in: 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
