@@ -6,7 +6,7 @@
 - I'm also brushing up on my Spring Boot + Angular skill set.
 
 #### PREVIOUSLY:
-- Worked on a bunch of fintech solutions (mostly backend) for financial institutions, enterprises and startups for 6+ years.
+- Worked on a bunch of fintech solutions (mostly backend) for financial institutions, enterprises and startups for 8+ years.
 - Primarily used <strong>Java + Spring Boot + Postgres</strong> for backend solutions (REST API).
 
 #### A BIT MORE ABOUT ME:
